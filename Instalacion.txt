@@ -1,0 +1,31 @@
+
+
+/*recibir paquetes de terceros y mantenerlos*/
+/****npm init***/
+/**Crea el package.json */
+/***Puedes confgurarr el package.json para pruebas*/
+/****Ejcutar la prueba npm run base3 (base3 es el nobre del script) */
+
+/*****Instsalar paquetes en cualquier ambiente ******** */
+/************npm i colors******************************************** */
+
+/*****Instalar solo en desarrollo* */
+/*************npm install nodemon --save-dev************ */
+
+/*********Para desinstalar******************** */
+/*************npm uninstall nodemon --save-dev************ */
+
+/***********Instalar version especifica */
+/***************npm i colors@1.0.0**************************/
+
+/************Revisar actualizaciones************* */
+/***************npm update*****************************/
+
+
+Instalar yaergs
+   npm i yargs
+
+
+
+
+
